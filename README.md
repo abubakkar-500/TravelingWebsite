@@ -4,7 +4,7 @@ A modern, responsive travel website built with React and TypeScript, showcasing 
 
 ## 🌟 Live Demo
 
-Visit the live website: [WanderLust Travel](your-deployment-url-here)
+Visit the live website: [WanderLust Travel]("")
 
 ## 📋 Project Overview
 
@@ -48,27 +48,6 @@ WanderLust is a multi-page travel website designed to demonstrate modern fronten
 - Cookie Policy
 - Quick navigation between sections
 - Professional legal content layout
-
-## 🛠️ Technologies Used
-
-### Frontend Framework
-- **React 18**: Modern JavaScript library for building user interfaces
-- **TypeScript**: Type-safe JavaScript for better development experience
-- **React Router DOM**: Client-side routing for single-page application navigation
-
-### Styling & Design
-- **Tailwind CSS**: Utility-first CSS framework for rapid UI development
-- **Google Fonts**: Playfair Display (headings) and Inter (body text)
-- **Lucide React**: Beautiful, customizable SVG icons
-
-### Build Tools
-- **Vite**: Fast build tool and development server
-- **PostCSS**: CSS processing with Autoprefixer
-- **ESLint**: Code linting for consistent code quality
-
-### Development Tools
-- **Node.js**: JavaScript runtime environment
-- **npm**: Package manager for dependencies
 
 ## 🚀 Getting Started
 
@@ -166,13 +145,6 @@ This project can be easily deployed to various platforms:
 ## 📄 License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## 👨‍💻 Author
-
-**Your Name**
-- GitHub: [@yourusername](https://github.com/yourusername)
-- LinkedIn: [Your LinkedIn](https://linkedin.com/in/yourprofile)
-- Email: your.email@example.com
 
 ## 🙏 Acknowledgments
 
